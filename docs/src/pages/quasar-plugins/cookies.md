@@ -12,7 +12,7 @@ In addition to the standard way of dealing with cookies, with Cookie Plugin you 
 <doc-api file="Cookies" />
 
 ::: tip
-With Electron version >= v1.12.2 the Cookie Plugin isn't functional in the Electron Enviroment. You may want to look up the [Electron Cookies](https://www.electronjs.org/docs/api/cookies) documentation.
+With Electron version >= v1.12.2 the Cookie Plugin isn't functional in the Electron Environment. You may want to look up the [Electron Cookies](https://www.electronjs.org/docs/api/cookies) documentation.
 :::
 
 <doc-installation plugins="Cookies" />
